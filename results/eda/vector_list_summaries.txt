@@ -1,0 +1,12 @@
+$total_damage
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+   1.00   18.00   26.00   32.88   35.00  127.00 
+
+$engagement_distance
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+    0.0   401.5   656.5   720.1   968.1  3422.0 
+
+$seconds
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  46.04  639.34 1198.56 1248.39 1764.32 5519.57 
+
