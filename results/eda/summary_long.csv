@@ -1,0 +1,15 @@
+wp_type,measure,value
+Equipment,events,83
+Equipment,mean_damage,53.28915662650602
+Grenade,events,6679
+Grenade,mean_damage,12.130259020811499
+Heavy,events,1011
+Heavy,mean_damage,22.48269040553907
+Pistol,events,12090
+Pistol,mean_damage,37.04549214226633
+Rifle,events,30168
+Rifle,mean_damage,33.35633784142137
+SMG,events,6804
+SMG,mean_damage,24.273809523809526
+Sniper,events,2928
+Sniper,mean_damage,81.17793715846994
