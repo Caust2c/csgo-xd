@@ -1,0 +1,13 @@
+model,status,seconds
+OLS,ok,1.37
+Ridge,ok,0.629999999999999
+Lasso,ok,0.389999999999999
+ElasticNet,ok,0.51
+CART,ok,0.5
+RandomForest,ok,2.58
+ExtraTrees,ok,2.47
+GBM,ok,9.15
+XGBoost,ok,1.39
+MARS,ok,2.19
+GAM,ok,1.78
+NeuralNet,ok,16.33
