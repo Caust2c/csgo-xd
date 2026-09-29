@@ -1,0 +1,10 @@
+{
+  "model": "WeaponHitboxBaseline",
+  "metrics": {
+    "MAE": 9.1671,
+    "RMSE": 14.6742,
+    "R2": 0.7022,
+    "Bias": 0.1535
+  },
+  "validation_MAE": 9.0311
+}
