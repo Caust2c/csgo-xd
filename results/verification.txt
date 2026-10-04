@@ -1,0 +1,6 @@
+Post-run verification passed.
+Mode: production
+Saved models checked: 12
+Checked match partition disjointness, excluded outcome features, finite predictions,
+independently recomputed metrics, interval order, adjusted p-values,
+fresh model reload predictions and spatial support invariants.
