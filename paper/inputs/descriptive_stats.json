@@ -1,0 +1,12 @@
+{
+  "damage_mean": 32.8831,
+  "damage_median": 26,
+  "damage_min": 1,
+  "damage_max": 127,
+  "selected_feature_count": 56,
+  "sample_matches": 240,
+  "sample_maps": 8,
+  "train_matches": 176,
+  "validation_matches": 32,
+  "test_matches": 32
+}
